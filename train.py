@@ -62,7 +62,7 @@ def main():
         model_args, data_args, training_args = parser.parse_args_into_dataclasses()
     
     wandb.init(
-        project="NLPDL-Assignment3",
+        project="NLPDL-Assignment2",
 
         config={
             "learning_rate": training_args.learning_rate,
