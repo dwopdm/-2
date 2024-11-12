@@ -1,4 +1,4 @@
-
+https://wandb.ai/3307915720-/NLPDL-Assignment2?nw=nwuser3307915720实验结果
 # -2
 accuracy永远与micro_f1相等
 roberta-base表现最好
