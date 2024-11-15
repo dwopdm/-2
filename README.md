@@ -5,7 +5,8 @@ roberta-base表现最好
 agnews训练出来效果好
 
 任务三中
-![image](https://github.com/user-attachments/assets/489c9af3-c863-4598-b125-8da26a89c7c5)
+![Uploading f93f5cf98d832f681fa27a359efb9ed.png…]()
+
 我们用了两个随机种子，每个模型每个数据集运行了两次，acl数据集最差，res第二，agnews最好
 
 
