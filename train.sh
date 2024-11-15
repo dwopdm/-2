@@ -2,7 +2,7 @@ seed=(123 234 345 456 567)
 
 for round in 0 1 2 3 4;
 do
-    for ft_task in 'restaurant_sup' 'laptop_sup' 'agnews_sup';
+    for ft_task in 'restaurant_sup' 'acl_sup' 'agnews_sup';
     do
         for model_name in 'roberta-base' 'bert-base-uncased' 'allenai/scibert_scivocab_uncased';
         do
